@@ -1,0 +1,15 @@
+{
+	"id": "./",
+	"name": "Tunetrax — Guitar tuner",
+	"short_name": "Tunetrax",
+	"description": "A simple six-string guitar tuner in standard tuning.",
+	"start_url": "./",
+	"scope": "./",
+	"display": "standalone",
+	"background_color": "#e8d1a7",
+	"theme_color": "#e8d1a7",
+	"icons": [
+		{ "src": "tunetrax-icon-192.png", "sizes": "192x192", "type": "image/png" },
+		{ "src": "tunetrax-icon-512.png", "sizes": "512x512", "type": "image/png" }
+	]
+}

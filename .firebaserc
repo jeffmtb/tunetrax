@@ -1,0 +1,12 @@
+{
+	"projects": {
+		"default": "tune-trax"
+	},
+	"targets": {
+		"tune-trax": {
+			"hosting": {
+				"tunetrax": ["tune-trax"]
+			}
+		}
+	}
+}

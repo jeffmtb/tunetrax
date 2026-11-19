@@ -1,0 +1,21 @@
+@import 'tailwindcss';
+
+:root {
+	font-family: Georgia, 'Times New Roman', serif;
+	color: #442c1c;
+	background: #e8d1a7;
+	font-synthesis: none;
+	line-height: 1.5;
+	color-scheme: light;
+}
+* { box-sizing: border-box; }
+body {
+	margin: 0;
+	min-width: 280px;
+	background: radial-gradient(ellipse at 50% 20%, #fff3d8bb, transparent 65%), #e8d1a7;
+}
+button { font: inherit; cursor: pointer; }
+button:focus-visible, summary:focus-visible { outline: 3px solid #167f7b; outline-offset: 5px; }
+button:disabled { cursor: wait; }
+button, a, summary { -webkit-tap-highlight-color: transparent; }
+::selection { background: #207f7540; }

@@ -1,0 +1,7 @@
+# Steampunk app background
+
+Generated with the built-in image generation tool, using `steampunk.png` as the reference. The full PNG is `steampunk-background-v1.png`; the app uses a WebP encoding at `static/images/steampunk-headstock.webp`. The six key hit areas, microphone/speaker icons, toggle, and selection glow are rendered by Svelte.
+
+## Generation prompt
+
+Edit this existing steampunk TuneTrax illustration into a production app background. Preserve the EXACT composition, canvas aspect ratio, six tuning keys, note letters, six posts, strings, wooden headstock silhouette, brass details, paper backdrop, bottom TuneTrax plaque, colors, texture and all object positions. Make only these local edits: (1) remove the microphone icon, speaker icon, words LISTEN and PLAY, teal underline, AND the horizontal brass toggle mechanism from the upper crown, replacing their area with seamless matching reddish walnut wood grain. Keep the ornamental brass gear above and ornament below if possible, but the area between x=26% to 73% and y=9% to 17% must be clear wood for real HTML icon controls. (2) Remove the turquoise glow around the lower left E2 tuning key and restore neutral paper around it, so ALL SIX tuning keys look unselected. Keep that key itself and its E2 note label. Keep all six tuning keys exactly where they currently are. Do not add any controls, words or symbols. This must remain a hand-drawn pen-and-watercolor illustration, not a photo. The illustration will have real clickable UI controls overlaid; do not paint UI labels into the cleared top region.

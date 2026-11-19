@@ -1,0 +1,27 @@
+node_modules
+
+# Output
+.output
+.vercel
+.netlify
+.wrangler
+/.svelte-kit
+/build
+
+# Firebase CLI
+/.firebase/
+/firebase-debug*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local credentials and environment
+/.aws/
+.env
+.env.*
+!.env.example
+
+# Vite
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
